@@ -54,8 +54,8 @@ export default function Shell({ children }) {
       }
       footer={
         <Footer height={60} p="md">
-          <Text variant='link' component='a' target={'_blank'} href='https://github.com/ffuNnyto/stake-stats'>
-            SOURCE: https://github.com/ffuNnyto/stake-stats
+          <Text variant='link' component='a' target={'_blank'} href='https://github.com/ffuNnyto/casino-proxy-stats'>
+            SOURCE: https://github.com/ffuNnyto/casino-proxy-stats
           </Text>
         </Footer>
 
